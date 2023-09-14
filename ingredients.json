@@ -4,6 +4,6 @@
   
   "Pantry": [
     { "name": "Flour", "measurement_type": "oz", "amount": 20 }
-    ,{ "name": "Rce", "measurement_type": "oz", "amount": 20 }
+    ,{ "name": "Rice", "measurement_type": "oz", "amount": 20 }
   ]
 }
