@@ -1,7 +1,9 @@
-[
-    { "id": "1", "name": "Flour" },
-    { "id": "2", "name": "Sugar" },
-    { "id": "3", "name": "Eggs" },
-    { "id": "4", "name": "Milk" }
-  ]
+{
+  "Email_will_be_key_for_database": "email@test.com",
+  "Password": "hashed_password",
   
+  "Pantry": [
+    { "name": "Flour", "measurement_type": "oz", "amount": 20 }
+    ,{ "name": "rice", "measurement_type": "oz", "amount": 20 }
+  ]
+}
